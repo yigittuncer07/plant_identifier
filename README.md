@@ -4,6 +4,17 @@ A React Native application that uses vision-capable AI to identify plants, diagn
 
 ![App Example Screen](static/image.png)
 
+## Deployment
+1. Add your key to the .env file like in .env.example
+2. Put your PC's IP address into the docker compose file's relevant field
+3. Have docker compose installed and run the following from the root directory:
+```
+docker compose up --build
+```
+
+You can now reach the application from localhost:8081 on your computers browser.  
+Alternatively, you can use expo mobile application to connect and view the mobile application.  
+
 ## Architecture
 
 ```mermaid
