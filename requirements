@@ -1,0 +1,8 @@
+python-dotenv
+requests
+openai
+instructor
+pydantic
+typing
+fastapi
+uvicorn
