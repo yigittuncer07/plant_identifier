@@ -6,3 +6,4 @@ pydantic
 typing
 fastapi
 uvicorn
+fastapi[standard]
