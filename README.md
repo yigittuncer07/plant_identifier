@@ -2,7 +2,7 @@
 
 A React Native application that uses vision-capable AI to identify plants, diagnose health issues, and provide structured care metrics.
 
-![App Example Screen](image.png)
+![App Example Screen](static/image.png)
 
 ## Architecture
 
